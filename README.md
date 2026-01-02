@@ -59,6 +59,3 @@ sed -i 's/np\.float6432/np.float32/g' yolox/utils/visualize.py
 
 - 本项目默认在 **CPU** 上运行。如果您有 NVIDIA GPU，可以修改脚本中的 `device` 参数为 `'0'` 以获得更快的推理速度。
 - 如果您更换了视频文件，请在脚本末尾修改 `video_path` 和 `output_path`。
-"# yolov5_bytetrack" 
-"# yolov5_bytetrack" 
-# yolov5_bytetrack
